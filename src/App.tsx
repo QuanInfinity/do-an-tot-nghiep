@@ -8,7 +8,7 @@ class App extends Component{
     return(
       <>
       <h1>
-        m beo vl
+        De Tai
       </h1>
       </>
     )
