@@ -4,7 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 class App extends Component{
-  render(): ReactNode {
+  render(): ReactNode 
+  {
     return(
       <>
       <h1>
