@@ -9,7 +9,7 @@ class App extends Component{
     return(
       <>
       <h1>
-        t dz
+        De Tai
       </h1>
       </>
     )
